@@ -1,0 +1,30 @@
+*.db
+*.pyc
+__pycache__/
+*.vscode/
+*.pio/
+*.rst
+*.txt
+*.md
+*.mk
+README*
+LICENSE*
+*.png
+*.jpg
+*.yml
+*CONTR*
+*CHANGE*
+*.o
+*.a
+*.bak
+*.pde
+*.pdf
+*.html
+mpu_*
+*launch
+*sc*
+*cm23*
+# *cm3*
+*cm7*
+*cm1*
+# *cm4*
